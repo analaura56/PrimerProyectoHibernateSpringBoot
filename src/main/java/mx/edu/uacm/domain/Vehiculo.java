@@ -1,7 +1,7 @@
 package mx.edu.uacm.domain;
 
 /**
- * @Josue
+ * @ analaura
  */
 import javax.persistence.Column;
 import javax.persistence.Entity;
